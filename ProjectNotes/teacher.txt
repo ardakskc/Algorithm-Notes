@@ -1,0 +1,6 @@
+12	Ahmet Elbir	Dr
+15	Banu Diri	Prof
+17	Ferkan Yilmaz	Dr
+19	Furkan Cakmak	OgretimGorevlisi
+21	Gokhan Bilgin	Doc
+23	Fatih Amasyali	Doc

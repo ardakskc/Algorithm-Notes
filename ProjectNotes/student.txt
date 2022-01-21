@@ -1,0 +1,6 @@
+1	Arda Kasikci	4	13
+2	Ilayda Kasikci	2	7
+3	Hacer Kasikci	1	4
+4	Arslan Kasikci	2	9
+5	Emine Aydin	2	7
+6	Pinar Simsek	4	13

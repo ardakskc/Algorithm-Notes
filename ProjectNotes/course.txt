@@ -1,0 +1,8 @@
+101	Yapisal	4	94 - 12
+102	Sinyal	3	74 - 21
+103	Seminer	1	79 - 23
+104	Olasilik	3	68 - 17
+105	AltSeviye	5	78 - 19
+106	Lojik	3	69 - 21
+107	Ayrik	3	74 - 12
+108	Matematik	3	99 - 15
